@@ -1,15 +1,16 @@
 # Project0 Starter Code
 
 ## Code overview
-- `language.txt` is a text file specifying the programming language in which the assignment is completed.
+- `language.txt` is a text file specifying the programming language in which the assignment is completed. *This is the very first thing you should edit.*
+- `project0_py` is a folder with starter code for completing the project in python.
+  - `project0_py/project0.py` contains the function `f` in which your code must be written.
+
+- `project0_jl` is a folder with starter code for completing the project in Julia.
+  - `project0_jl/project0.jl` contains the function `f` in which your code must be written.
+- `localtest.py` runs tests on `project0_py`.
+- `localtest.jl` runs tests on `project0_jl`.
 - `make_submission.sh` is a shell script which will create a zip file for submission to gradescope (Unix).
 - `make_submission_gitbash.sh` is a shell script which will create a zip file for submission to gradescope (Windows GitBash).
-- `project0_py` is a folder with starter code for completing the project in python
-- `project0_py/project0.py` contains the function `f` in which your code must be written.
-- `localtest.py` runs tests on `project0_py`
-- `project0_jl` is a folder with starter code for completing the project in Julia.
-- `project0_jl/project0.jl` contains the function `f` in which your code must be written.
-- `localtest.jl` runs tests on `project0_jl`
 
 ## Deliverables
 
