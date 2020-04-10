@@ -9,8 +9,9 @@
   - `project0_jl/project0.jl` contains the function `f` in which your code must be written.
 - `localtest.py` runs tests on `project0_py`.
 - `localtest.jl` runs tests on `project0_jl`.
-- `make_submission.sh` is a shell script which will create a zip file for submission to gradescope (Unix).
-- `make_submission_gitbash.sh` is a shell script which will create a zip file for submission to gradescope (Windows GitBash).
+- `make_submission.sh` is a shell script to create the zip file for submission to gradescope (Unix).
+- `make_submission_gitbash.sh` is a shell script to create the zip file for submission to gradescope (Windows GitBash).
+- `make_submission.bat` is a batch file to create a zip file for submission to gradescope (Windows Command Prompt)
 
 ## Deliverables
 
