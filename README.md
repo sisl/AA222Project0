@@ -22,7 +22,7 @@ Install 7-Zip from <https://www.7-zip.org/> and try to install it at the recomme
 
 
 ### Choose a programming language
-First, pick either Julia1.3+ or Python3+ as a programming language. Depending on your choice, go to `language.txt` and change `notalanguage` to either `julia` or `python`.
+First, pick either Julia1.5+ or Python3+ as a programming language. Depending on your choice, go to `language.txt` and change `notalanguage` to either `julia` or `python`.
 
 ### Complete the required code
 Second, if you chose Julia, go to `project0_jl/project0.jl` and complete the function `f`. If you chose Python, go to `project0_py/project0.py` and complete the function `f`.
