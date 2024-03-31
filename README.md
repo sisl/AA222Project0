@@ -40,4 +40,4 @@ or running (on Windows in GitBash)
 `bash ./make_submission_gitbash.sh`
 
 ### Submit on Gradescope
-Finally, submit the created zip file `project0.zip` on `Gradescope/AA222/Project0`
+Finally, submit the created zip file `project0.zip` on `Gradescope`
