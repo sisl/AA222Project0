@@ -20,7 +20,7 @@
 
 
 ### Choose a programming language
-First, pick either Julia1.7+ or Python3+ as a programming language. Depending on your choice, go to `language.txt` and change `notalanguage` to either `julia` or `python`.
+First, pick either Julia1.9+ or Python3+ as a programming language. Depending on your choice, go to `language.txt` and change `notalanguage` to either `julia` or `python`.
 
 ### Complete the required code
 Second, if you chose Julia, go to `project0_jl/project0.jl` and complete the function `f`. If you chose Python, go to `project0_py/project0.py` and complete the function `f`.
