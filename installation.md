@@ -21,7 +21,7 @@ For additional installation help, [please post on Ed](https://edstem.org/us/cour
 
 ## 1. Install `git`
 
-- Windows users: The simplest way to install git on windows is to use the installer ([Installer Link](https://git-scm.com/downloads/win)). Once installed, we recommend that windows users use the **Git Bash** terminal to 
+- Windows users: The simplest way to install git on windows is to use the installer ([Installer Link](https://git-scm.com/downloads/win)). Once installed, we recommend that windows users use the **Git Bash** terminal to run code.
 
 >*Note* : Alternatively, for Windows, the WSL (Windows Subsystem for Linux) gives us a virtualized linux kernel and command-line tool without having to dual boot. This is more involved and instructions to use the WSL can be found here : [WSL Instructions](https://learn.microsoft.com/en-us/windows/wsl/install). (**This is completely optional!**)
 ---
@@ -66,7 +66,7 @@ git clone git@github.com:sisl/AA222Project0.git
 This will give you the `julia` command in your terminal.
 
 > #### Already have Julia???
-> - If you already have `julia` and it's not updated to version 1.7+, please run the following in a terminal:
+> - If you already have `julia` and it's not updated to version 1.9+, please run the following in a terminal:
 > ```
 > juliaup update
 > ```
