@@ -9,7 +9,7 @@ function f(a, b)
     # TODO: Write your code here: Remember to return the sum of a and b!
 end
 
-# Write ranges for a and b using the range function 
+# Write ranges for a and b using the range() function 
 
 bottom_limit_a = -10
 top_limit_a = 10
