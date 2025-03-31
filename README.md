@@ -33,7 +33,7 @@ In Julia, use this reference for adding packages: <https://docs.julialang.org/en
 
 In Python, use this reference for adding packages: <https://packaging.python.org/en/latest/tutorials/installing-packages/>
 
-For help making contour plots, please see [this link](https://docs.juliaplots.org/latest/series_types/contour/) for Julia, [this link](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.contour.html) for Python, and [this tutorial](https://www.youtube.com/watch?v=Tg9a6nSoSB8). 
+For help making contour plots, please see [this link](https://docs.juliaplots.org/latest/series_types/contour/) for Julia, [this link](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.contour.html) for Python, and [this video tutorial](https://www.youtube.com/watch?v=Tg9a6nSoSB8) for both Julia and Python. 
 
 ### Test your completed code
 Third, if you chose Julia test your completed code by running:
