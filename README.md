@@ -44,4 +44,4 @@ Fourth, create the zip file for your submission by running
 - On Windows (without 7-Zip installed): `make_submission.bat`
 
 ### Submit on Gradescope
-Finally, submit the created zip file `project0.zip` on `Gradescope` and submit a PDF of your contour plot and your code to `Project 0 (Writeup)` on `Gradescope`.
+Finally, submit the created zip file `project0.zip` on `Gradescope` and submit a PDF containing your contour plot and your code to `Project 0 (Writeup)` on `Gradescope`.
