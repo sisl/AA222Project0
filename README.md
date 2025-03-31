@@ -1,5 +1,7 @@
 # Project0 Starter Code
 
+Please see the project instructions located [here]<https://drive.google.com/file/d/1zA0iu8tzm9jsVihoAsDeI9nLY14591mN/view?usp=sharing>. 
+
 ## Code overview
 - `language.txt` is a text file specifying the programming language in which the assignment is completed. *This is the very first thing you should edit.*
 - `project0_py` is a folder with starter code for completing the project in python.
