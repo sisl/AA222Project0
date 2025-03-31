@@ -29,8 +29,7 @@ def f(a, b):
 
 	return c
 
-# Create a contour plot: use reference https://matplotlib.org/stable/gallery/images_contours_and_fields/contour_demo.html
-# make contour plot 
+# Create a contour plot: see Tutorial 3 or https://matplotlib.org/stable/gallery/images_contours_and_fields/contour_demo.html
 
 bottom_limit_a = -10
 top_limit_a = 10
