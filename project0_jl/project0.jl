@@ -9,11 +9,16 @@ function f(a, b)
     # TODO: Write your code here: Remember to return the sum of a and b!
 end
 
-# Write ranges for a and b (you can adjust the limits and step sizes as needed)
+# Write ranges for a and b using the range function 
 
-bottom_limit = -10
-top_limit = 10
-length = 100
+bottom_limit_a = -10
+top_limit_a = 10
+length_a = 100
+
+bottom_limit_b = -10
+top_limit_b = 10
+length_b = 100
+
 a_vals = # TODO: Define the range for a  
 b_vals = # TODO: Define the range for b  
 
