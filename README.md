@@ -25,11 +25,13 @@ Please see the project instructions located [here](https://drive.google.com/file
 First, pick either Julia1.9+ or Python3.9+ as a programming language. Depending on your choice, go to `language.txt` and change `notalanguage` to either `julia` or `python`.
 
 ### Complete the required code
-Second, if you chose Julia, go to `project0_jl/project0.jl` and complete the function `f`. If you chose Python, go to `project0_py/project0.py` and complete the function `f`. Remember to install the packages listed at the top of your chosen file. 
+Second, if you chose Julia, go to `project0_jl/project0.jl` and complete the function `f` and the TODOs the generate a contour plot. If you chose Python, go to `project0_py/project0.py` and complete the function `f` and the TODOs the generate a contour plot. 
 
+Remember to install the packages listed at the top of your chosen file. 
 In Julia, use this reference for adding packages: <https://docs.julialang.org/en/v1/stdlib/Pkg/>
-
 In Python, use this reference for adding packages: <https://packaging.python.org/en/latest/tutorials/installing-packages/>
+
+For help making contour plots, please see [this link](https://docs.juliaplots.org/latest/series_types/contour/) for Julia, [this link](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.contour.html) for Python, and [this tutorial](https://www.youtube.com/watch?v=Tg9a6nSoSB8). 
 
 ### Test your completed code
 Third, if you chose Julia test your completed code by running:
