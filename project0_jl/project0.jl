@@ -10,7 +10,6 @@ function f(a, b)
 end
 
 # Creating the Contour Plot: see the documentation for reference: - https://docs.juliaplots.org/latest/series_types/contour/
-# TODO: Write ranges for a and b using the range() function 
 
 bottom_limit_a = -10
 top_limit_a = 10
@@ -20,8 +19,8 @@ bottom_limit_b = -10
 top_limit_b = 10
 length_b = 100
 
-a_vals = # TODO: Define the range for a  
-b_vals = # TODO: Define the range for b  
+a_vals = # TODO: Define the range for a using the range() functions
+b_vals = # TODO: Define the range for b using the range() functions 
 
 # Generates a 2D grid of function values
 z = @. f(a_vals', b_vals)
