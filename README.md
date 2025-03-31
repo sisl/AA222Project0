@@ -5,9 +5,9 @@ Please see the project instructions located [here](https://drive.google.com/file
 ## Code overview
 - `language.txt` is a text file specifying the programming language in which the assignment is completed. *This is the very first thing you should edit.*
 - `project0_py` is a folder with starter code for completing the project in python.
-  - `project0_py/project0.py` contains the function `f` in which your code must be written.
+  - `project0_py/project0.py` contains the function `f` in which your code must be written and complete the TODOs to make a contour plot.
 - `project0_jl` is a folder with starter code for completing the project in Julia.
-  - `project0_jl/project0.jl` contains the function `f` in which your code must be written.
+  - `project0_jl/project0.jl` contains the function `f` in which your code must be written and complete the TODOs to make a contour plot.
 - `localtest.py` runs tests on `project0_py`.
 - `localtest.jl` runs tests on `project0_jl`.
 - `make_submission.sh` is a shell script to create the zip file for submission to gradescope (Unix).
@@ -40,4 +40,4 @@ Fourth, create the zip file for your submission by running
 - On Windows (without 7-Zip installed): `make_submission.bat`
 
 ### Submit on Gradescope
-Finally, submit the created zip file `project0.zip` on `Gradescope`
+Finally, submit the created zip file `project0.zip` on `Gradescope` and submit a PDF of your contour plot and your code to `Project 0 (Writeup)` on `Gradescope`.
