@@ -1,4 +1,4 @@
-using Plots # Make sure you add this to your project dependencies
+using Plots; pythonplot() # Make sure you add this to your project dependencies
 
 """
     f(a, b)
