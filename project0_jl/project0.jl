@@ -9,6 +9,7 @@ function f(a, b)
     # TODO: Write your code here: Remember to return the sum of a and b!
 end
 
+# Creating the Contour Plot: see the documentation for reference: - https://docs.juliaplots.org/latest/series_types/contour/
 # Write ranges for a and b using the range() function 
 
 bottom_limit_a = -10
@@ -26,7 +27,7 @@ b_vals = # TODO: Define the range for b
 z = @. f(a_vals', b_vals)
 
 # Use the computed arrays a_vals, b_vals, and z.
-p = contour(   # TODO: Replace with the appropriate arguments - see https://docs.juliaplots.org/latest/series_types/contour/
+p = contour(   # TODO: Replace with the appropriate arguments
         ,
         ,
         ,
