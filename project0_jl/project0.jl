@@ -9,7 +9,7 @@ function f(a, b)
     # TODO: Write your code here: Remember to return the sum of a and b!
 end
 
-# Creating the Contour Plot: see the documentation for reference: - https://docs.juliaplots.org/latest/series_types/contour/
+# Creating the Contour Plot: see Tutorial 3 or https://docs.juliaplots.org/latest/series_types/contour/
 
 bottom_limit_a = -10
 top_limit_a = 10
