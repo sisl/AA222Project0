@@ -1,4 +1,5 @@
-using Plots; pythonplot() # Make sure you add this to your project dependencies
+using Plots # Make sure you add this to your project dependencies
+# using Plots; pythonplot() # you don't have to use pyplot, Julia already has a built in contour plotting function! 
 
 """
     f(a, b)
