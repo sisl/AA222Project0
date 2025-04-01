@@ -22,7 +22,7 @@ if "%lang%" == "julia" (
 )
 
 :: Use PowerShell to zip the files
-powershell -command "Get-ChildItem -Path '.\%dir_name%\' -Filter *.%ext% | Compress-Archive -DestinationPath '.\%zip_name%' -Force"
+powershell -command "Compress-Archive -Path '.\%jl_name%', '.\%py_name%', '.\language.txt' -DestinationPath '.\%zip_name%' -Force"
 
 :end
 endlocal
