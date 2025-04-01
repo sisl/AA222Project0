@@ -12,13 +12,13 @@ Please see the project instructions located [here](https://drive.google.com/file
 - `localtest.jl` runs tests on `project0_jl`.
 - `make_submission.sh` is a shell script to create the zip file for submission to gradescope (Unix).
 - `make_submission_gitbash.sh` is a shell script to create the zip file for submission to gradescope (Windows GitBash + 7-Zip).
-- `make_submission.bat` is a batch file to create a zip file for submission to gradescope (Windows Command Prompt)
+- `make_submission.bat` is a batch file to create a zip file for submission to gradescope (Windows PowerShell + 7-Zip).
 
 ## Deliverables
 
 ### Required installs for Windows only
 - Install Git from <https://git-scm.com/download/win> and ensure you install GitBash when asked whether you want to.
-- Optional: Install 7-Zip from <https://www.7-zip.org/> and try to install it at the recommended location: `C:\Program Files\7-Zip`. If you choose **not** to install 7-Zip, you must use `make_submission.bat` instead of `make_submission_gitbash.sh` to create the zip file for submission.
+- Install 7-Zip from <https://www.7-zip.org/> and try to install it at the recommended location: `C:\Program Files\7-Zip`.
 
 
 ### Choose a programming language
@@ -44,8 +44,8 @@ If you chose Python, test your completed code by running:
 ### Create the submission
 Fourth, create the zip file for your submission by running
 - On Unix: `bash ./make_submission.sh`
-- On Windows (with 7-Zip installed): `bash ./make_submission_gitbash.sh`
-- On Windows (without 7-Zip installed): `make_submission.bat`
+- On Windows (GitBash + 7-Zip): `bash ./make_submission_gitbash.sh`
+- On Windows (PowerShell + 7-Zip): `make_submission.bat`
 
 ### Submit on Gradescope
 Finally, submit the created zip file `project0.zip` on `Gradescope` and submit a PDF containing your contour plot and your code to `Project 0 (Writeup)` on `Gradescope`.
